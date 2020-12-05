@@ -1,3 +1,15 @@
+.auto-margin-top {
+    margin-top: auto;
+}
+
 .full-width {
     width: 100%;
+}
+
+.pointer-cursor {
+    cursor: pointer;
+}
+
+.right-text-align {
+    text-align: right;
 }
