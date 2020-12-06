@@ -1,0 +1,23 @@
+.auto-margin-top {
+    margin-top: auto;
+}
+
+.billed {
+	color: green;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.not-billed {
+	color: #ff8c00;
+}
+
+.pointer-cursor {
+    cursor: pointer;
+}
+
+.right-text-align {
+    text-align: right;
+}
