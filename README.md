@@ -1,7 +1,12 @@
 <-------------------------------------------------------------------->
 
-# Assumed that this is a safe API
+# I am guessing most individuals are going to use 'vue create'
+# To help stand out, I just used the CDNs
+# Hope everything is satisfactory
+# Thank you for your time
 
+
+# Assumed that this is a safe API
 - Find the newest Transaction/NotSettled through iteration (incase they aren't in order)
 - Set the AvailableBalance from the most recent transaction as the starting balanace
 - Iterate through Transactions/NotSettled
@@ -17,11 +22,19 @@
 
 
 # Important info to show on frontend
-
+- Transaction description
+- Transaction date
 - Starting balance
+- Pending balance
 - Ending balance
 - Account number
 - Merchant name
-- Transaction description
-- Transaction date
 - Amount
+
+
+# In order to include pagination
+- Added meta data to API for pagination
+- Duplicated transactions
+- Increased balance
+
+<-------------------------------------------------------------------->
